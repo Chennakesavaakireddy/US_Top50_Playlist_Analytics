@@ -1,0 +1,6 @@
+UNITED STATES TOP 50 PLAYLIST ANALYTICS
+
+Total Songs : 943
+Total Artists : 296
+Average Popularity : 87.66
+Popularity vs Rank Correlation : -0.09
